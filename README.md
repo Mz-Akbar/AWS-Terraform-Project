@@ -14,7 +14,6 @@ Beberapa resource AWS yang dapat didefinisikan dalam proyek ini antara lain:
 - Security Group
 - Lambda, API Gateway, dan lain-lain
 
-> Daftar layanan bisa kamu sesuaikan berdasarkan isi aktual dari repo ini.
 
 ##  Prasyarat
 
