@@ -1,8 +1,8 @@
-# 🚀 AWS Infrastructure with Terraform
+#  AWS Infrastructure with Terraform
 
 Repository ini berisi kode Terraform untuk membuat infrastruktur AWS secara otomatis dan terstruktur. Proyek ini ditujukan untuk pembelajaran serta implementasi Infrastructure as Code (IaC) menggunakan Terraform di layanan AWS.
 
-## 📦 Layanan yang Digunakan
+## Layanan yang Digunakan
 Beberapa resource AWS yang dapat didefinisikan dalam proyek ini antara lain:
 
 - VPC (Virtual Private Cloud)
@@ -16,7 +16,7 @@ Beberapa resource AWS yang dapat didefinisikan dalam proyek ini antara lain:
 
 > Daftar layanan bisa kamu sesuaikan berdasarkan isi aktual dari repo ini.
 
-## 🛠 Prasyarat
+##  Prasyarat
 
 Sebelum menjalankan project ini, pastikan kamu sudah menginstall:
 
@@ -24,7 +24,7 @@ Sebelum menjalankan project ini, pastikan kamu sudah menginstall:
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 - Akun AWS aktif dan kredensial tersimpan (via `aws configure` atau environment variable)
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 ```bash
 .
